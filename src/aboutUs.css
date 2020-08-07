@@ -1,0 +1,117 @@
+.team_header{
+  display: block;
+  border: 100px;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  font-family: montserrat;
+  color: #A5A5A5
+}
+
+.team_description{
+  text-align: center;
+  font-family: montserrat;
+  padding-top: 10px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-bottom: 100px;
+  color: #A5A5A5
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  height: 370px;
+
+}
+
+.flex-container > div {
+  font-family: montserrat;
+  color: #A5A5A5;
+  background-color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+
+}
+
+.subheader-description {
+  font-size: 12px;
+  line-height: normal;
+  text-align: center;
+}
+
+.pink_block {
+  display: block;
+  height: 650px;
+  background-color: #FFE9E9
+}
+
+.our_mission {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: montserrat;
+  color: #A5A5A5
+}
+
+
+.mission_description {
+  text-align: center;
+  font-family: montserrat;
+  padding-left: 250px;
+  padding-right: 250px;
+  color: #A5A5A5
+}
+
+
+.d-block {
+  height: 500px;
+  width: 100%;
+  padding-bottom: 100px;
+
+}
+
+.carousel-h3 {
+  color: black;
+}
+
+
+.connect {
+  width: 100%;
+  height: auto;
+  padding-bottom: 40px;
+}
+
+.support {
+  width: 100%;
+  height: auto;
+  padding-bottom: 40px;
+}
+
+.track {
+  width: 100%;
+  height: auto;
+  padding-bottom: 40px;
+}
+
+.carousel-h3 {
+  font-size: 12pt;
+  color: #A5A5A5;
+  padding-bottom: 200px;
+}
+
+.carousel-paragraph {
+  color: #A5A5A5;
+  margin-left: 220px;
+  margin-right: 220px;
+  padding-bottom: 50px;
+  font-size: 10pt;
+}
+
+.team-container {
+  background-color: white;
+}

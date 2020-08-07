@@ -1,0 +1,44 @@
+.carbonform-questions {
+  color: #6b6b6b;
+  padding-bottom: 5px;
+  padding-top: 30px;
+}
+
+.responseclass {
+
+}
+
+.submit-button {
+  background-color: #91C6BC !important;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  float: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: 0.5s;
+  font-size: 12px;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  width: 100px;
+  height: auto;
+  margin-top: 30px;
+  border-radius: 100px;
+}
+
+.submit-button:hover {
+   background-color: #C2D3D0;
+   color: white;
+}
+
+.response {
+  color: #A5A5A5;
+}
+
+::placeholder {
+  color: #A5A5A5 !important;
+  opacity: 1 !important; /* Firefox */
+}

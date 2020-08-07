@@ -1,0 +1,105 @@
+body {
+  background-color: #EAFFDC;
+}
+
+.userPage_welcome {
+  display: block;
+  height: 200px;
+  padding-left: 50px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-size: 20pt;
+  font-family: montserrat;
+  color: #686868;
+}
+
+.userPage_welcome_block {
+  display: block;
+  padding-left: 60px;
+  height: 200px;
+  background-color: #EAFFDC;
+}
+
+.userPage-flex {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding-left: 100px;
+}
+
+.taskbar {
+  background-color: white;
+  box-shadow: 0px 2px 50px 0px #A5A5A5;
+}
+
+
+td{
+  background-color: none;
+}
+
+.userpage-button {
+  background-color:white;
+  padding: 60px;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 24px 30px;
+  transition: 0.5s;
+  font-size: 17px;
+  color: #A5A5A5;
+  width: 235px;
+  font-weight: bold;
+}
+
+.userpage-button:hover {
+   background-color: #f0f0f0;
+   color: #A5A5A5;
+}
+
+tr {
+  background-color: white;
+}
+
+.victory-container {
+  padding-left: 150px;
+  height: auto;
+  width: 800px;
+
+}
+
+.harry-styles-is-hotter-than-ryan-reynolds {
+  border: none;
+  padding: 70px;
+  background-color: white;
+  box-shadow: 0px 2px 50px 0px #A5A5A5;
+}
+
+#your-carbon-score {
+  font-size: 20px;
+  font-family: montserrat;
+  color: #A5A5A5;
+}
+
+button:active {
+   background-color: #A5A5A5;
+}
+
+.taskbar-container {
+  display: flex;
+  border-radius: 5px;
+  background-color: white;
+  width: 400px;
+  text-align: auto auto;
+  margin: 35px;
+}
+
+.carbonForm-container {
+  display: flex;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  width: 400px;
+  text-align: auto auto;
+  margin: 35px;
+  padding: 30px;
+}
